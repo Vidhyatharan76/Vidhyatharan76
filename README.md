@@ -17,7 +17,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=flat&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat&logo=arch-linux)
-<img src="https://www.python.org/static/community_logos/python-powered-w-100x40.png" alt="Python Logo">
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 
 
