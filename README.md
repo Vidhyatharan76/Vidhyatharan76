@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Vidhyatharan!
-## 🧠 School Student | 💻 Front-end Dev | 🐧 Arch Linux Enthusiast
+## 🧠 School Student | 💻 Front-end Dev | 🐧 Linux Enthusiast
 
 - 🌱 Currently learning **React**, **Firebase**, and building cool apps
-- 🛠️ Tools I use: VS Code, Linux (Arch btw 😉), Git, Figma, Firebase
+- 🛠️ Tools I use: Zed, Linux (Zorin btw 😉), Git, Figma, Firebase
 - 💬 Ask me about JavaScript, Chat App UIs, or cool Linux tricks
 - 🧪 Building: A scary ghost-detecting camera app 🎃
 - 🎯 Goal: To become a full-stack developer and open-source contributor
